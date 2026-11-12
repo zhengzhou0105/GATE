@@ -1,0 +1,12 @@
+name: GATE
+title: GATE
+username: 7t2hvl-zheng-zhou
+account: 7t2hvl-zheng-zhou
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17315342
+bundleId: 12812181
+url: https://7t2hvl-zheng-zhou.shinyapps.io/GATE/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
