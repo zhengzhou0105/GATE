@@ -200,4 +200,4 @@ The user may also execute the workflow step by step, running `data.R`, `modeling
 
 For questions, collaboration or bug reports, please contact the repository maintainer or the corresponding author of the manuscript at:
 
-- Zheng Zhou: [zheng.zhou\@ruokavirasto.fi](mailto:zheng.zhou@ruokavirasto.fi){.email}
+- Zheng Zhou: [zheng.zhou\@ruokavirasto.fi](mailto:zheng.zhou@ruokavirasto.fi)
